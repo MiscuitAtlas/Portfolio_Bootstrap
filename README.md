@@ -43,7 +43,7 @@ Ce projet est un portfolio personnel développé avec Bootstrap, mettant en avan
   ```
 
 ## 📸 Aperçu
-![image](https://github.com/user-attachments/assets/85ec7c52-3436-45a2-b97f-32447b18f737)
+![image](https://github.com/user-attachments/assets/948cdf20-365f-45eb-a9c0-2c64d6a628d5)
 
 ## 📧 Contact
 Pour toute question ou suggestion, contactez-moi :
